@@ -1,0 +1,2 @@
+# LibVerifySignature
+FISCO BCOS LibVerifySignature数字签名验签合约库
